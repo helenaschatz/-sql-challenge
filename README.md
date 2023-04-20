@@ -7,7 +7,7 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
 
-                     This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
+- This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
 
                                                              Data Modeling
@@ -15,7 +15,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD Links to an external site..
 
 
-  Data Engineering
+                                                            Data Engineering
 
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 - Remember to specify the data types, primary keys, foreign keys, and other constraints.
@@ -24,7 +24,7 @@ Use the provided information to create a table schema for each of the six CSV fi
 - Import each CSV file into its corresponding SQL table.
 
 
-  Data Analysis
+                                                              Data Analysis
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
 2. List the first name, last name, and hire date for the employees who were hired in 1986.
